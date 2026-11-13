@@ -1,0 +1,1 @@
+# pashto-tech-data
