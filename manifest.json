@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "updatedAt": "2026-11-13T07:40:34.311Z",
+  "files": [
+    "data/categories.json",
+    "data/lessons.json",
+    "data/settings.json"
+  ]
+}
